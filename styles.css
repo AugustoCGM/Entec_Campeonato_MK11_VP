@@ -128,7 +128,7 @@ h1, h2, h3, h4 { font-family: var(--font-title); color: var(--color-gold); text-
 
 /* =========================================
    3. CENTRO - TÍTULOS E BOTÃO
-========================================= */
+========================================= */ 
 .roster-center {
     position: relative;
     z-index: 2;
